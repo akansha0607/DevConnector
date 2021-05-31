@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://anshika1306:nA9hKqG82LjiES0M@devconnector.pm7yi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
+    "mongoURI": "mongodb+srv://anshika1306:ad2RXqJVkpG843E@devconnector.pm7yi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secretTAka6746767567oken",
     "githubClientId": "4402949b9eb4c27523f7",
-    "githubSecret": "755e85113cf4b021556bc8f10489e97833245ca1"
+    "githubSecret": "6677a7335b85ed07046d9995921be033c82ddc9b"
 }
